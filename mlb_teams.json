@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+       "id": 1,
+      "orioles": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/1?lang=en&region=us"
+    },
+    { "id": 2,
+      "red-sox": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/2?lang=en&region=us"
+    },
+    { "id": 3,
+      "angels": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/3?lang=en&region=us"
+    },
+    { "id": 4,
+      "white-sox": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/4?lang=en&region=us"
+    },
+    { "id": 5,
+      "indians": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/5?lang=en&region=us"
+    },
+    { "id": 6,
+      "tigers": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/6?lang=en&region=us"
+    },
+    { "id": 7,
+      "royals": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/7?lang=en&region=us"
+    },
+    { "id": 8,
+      "brewers": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/8?lang=en&region=us"
+    },
+    { "id": 9,
+      "twins": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/9?lang=en&region=us"
+    },
+    { "id": 10,
+      "yankees": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/10?lang=en&region=us"
+    },
+    { "id": 11,
+      "athletics": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/11?lang=en&region=us"
+    },
+    { "id": 12,
+      "mariners": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/12?lang=en&region=us"
+    },
+    { "id": 13,
+      "rangers": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/13?lang=en&region=us"
+    },
+    { "id": 14,
+      "toronto-blue-jays": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/14?lang=en&region=us"
+    },
+    { "id": 15,
+      "braves": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/15?lang=en&region=us"
+    },
+    { "id": 16,
+      "cubs": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/16?lang=en&region=us"
+    },
+    { "id": 17,
+      "reds": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/17?lang=en&region=us"
+    },
+    { "id": 18,
+      "astros": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/18?lang=en&region=us"
+    },
+    { "id": 19,
+      "dodgers": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/19?lang=en&region=us"
+    },
+    { "id": 20,
+      "nationals": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/20?lang=en&region=us"
+    },
+    { "id": 21,
+      "mets": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/21?lang=en&region=us"
+    },
+    { "id": 22,
+      "phillies": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/22?lang=en&region=us"
+    },
+    { "id": 23,
+      "pirates": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/23?lang=en&region=us"
+    },
+    {  "id": 24,
+      "cardinals": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/24?lang=en&region=us"
+    },
+    {  "id": 25,
+      "padres": "http://sports.core.api.espn.com/v2/sports/baseball/leagues/mlb/seasons/2021/teams/25?lang=en&region=us"
+    }
+  ]
+}
